@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "starting flannel..\n"
+
+{{pkg.path}}/flanneld
